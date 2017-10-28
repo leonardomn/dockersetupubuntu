@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing Docker-CE (Community Edition) for Ubuntu 17.04 AMD64 >"
+echo "Installing Docker-CE (Community Edition) for Ubuntu 17.04/Debian AMD64 >"
 echo .......
 
 echo "Update the apt packeage index:"
