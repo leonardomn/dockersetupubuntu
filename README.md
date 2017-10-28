@@ -1,5 +1,5 @@
-# dockersetupubuntu
-Docker Script Setup for Ubuntu
+# dockersetupubuntu/debian
+Docker Script Setup for Ubuntu/Debian
 
 You can install Docker-CE using this script. 
 
